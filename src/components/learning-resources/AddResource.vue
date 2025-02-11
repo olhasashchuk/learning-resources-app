@@ -70,7 +70,7 @@ export default {
 };
 </script>
 
-<style scope>
+<style scoped>
 label {
   font-weight: bold;
   display: block;
